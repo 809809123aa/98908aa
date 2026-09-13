@@ -3,18 +3,6 @@
 
 int main(void)
 {
-
-	printf("11111222");
-	printf("11111222");
-	printf("11111222");
-
-
-
-	printf("11111222");
-
-
-
-	printf("11111222");
-	return 0;
+printf("嘿嘿\n");
 }
 
